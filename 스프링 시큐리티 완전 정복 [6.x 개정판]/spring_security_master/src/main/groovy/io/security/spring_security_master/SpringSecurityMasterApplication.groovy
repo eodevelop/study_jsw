@@ -9,5 +9,4 @@ class SpringSecurityMasterApplication {
     static void main(String[] args) {
         SpringApplication.run(SpringSecurityMasterApplication, args)
     }
-
 }
